@@ -1,0 +1,10 @@
+.content {
+    min-height: 600px;
+    padding: 20px;
+    background: bisque;
+}
+
+button {
+    margin: 20px 0;
+    width: 100%;
+}
